@@ -29,5 +29,3 @@ It’s a great beginner-friendly project to practice **API integration**, **DOM 
 
 ---
 
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
